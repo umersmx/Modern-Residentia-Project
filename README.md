@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Developed with ❤️ by [Umer Farooq](https://github.com/umersmx) for Academic & Portfolio Excellence.**
+**Developed with ❤️ by [Umer Farooq](https://github.com/umersmx) , [Mustafa Khizar](https://github.com/KhizarDoingProgramming) for Academic & Portfolio Excellence.**
